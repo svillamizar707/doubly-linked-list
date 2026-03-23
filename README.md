@@ -42,3 +42,7 @@ Your code must be implemented to be as performant as possible. Additionally, be 
 
 
 **Good luck :)**
+
+# Execution instructions
+The solution consists in a console aplication, you only need to run the implementation of the doubly linked list on visual studio to see the results of the operations. 
+The main method (program.cs) contains an example that tests the implementation of the doubly linked list, you can modify it to test other scenarios.
